@@ -13,7 +13,7 @@ It contains:
 
 ```bash
 # 1) Clone and enter the project
-git clone https://github.com/YourUsername/HCV-Forecasting-ML-Epi.git
+git clone https://github.com/jamshaidwarraich/ODNN 
 cd HCV-Forecasting-ML-Epi
 
 # 2) Install dependencies
