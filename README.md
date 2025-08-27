@@ -3,8 +3,8 @@
 This repository accompanies the article **"A Data-Driven Approach to Hepatitis C Forecasting Using Machine Learning and Epidemiological Models."**
 
 It contains:
-1. An Oscillatory Deep Neural Network (ODNN) implementation using `neurodiffeq` for a compartmental HCV model.
-2. A classical 4th-order Runge–Kutta (RK4) implementation of the same model.
+1. An Oscillatory Deep Neural Network (ODNN) implementation for the computational investigation of a compartmental HCV model.
+2. A classical fourth-order Runge–Kutta (RK4) implementation of the same model.
 3. Comparison utilities and plotting scripts.
 
 > Note: If you use this repository for your research, please cite it (see Citation section).
@@ -38,7 +38,7 @@ python src/comparison.py
 ```
 HCV-Forecasting-ML-Epi/
 ├─ src/
-│  ├─ odnn_solver.py      # ODNN via neurodiffeq (training + solution + plots)
+│  ├─ odnn_solver.py      # ODNN (training + solution + plots)
 │  ├─ rk4_solver.py       # RK4 integrator + plots
 │  └─ comparison.py       # ODNN vs RK4 comparison and error plots
 ├─ requirements.txt
