@@ -52,8 +52,7 @@ HCV-Forecasting-ML-Epi/
 - Training time depends on hardware and `max_epochs` in `odnn_solver.py`.
 
 ## 📝 Data Availability Statement (template)
-All code used in this study is available at **GitHub** (https://github.com/YourUsername/HCV-Forecasting-ML-Epi) and
-archived at **Zenodo** (DOI: 10.5281/zenodo.xxxxxxx).
+All code used in this study is available at **GitHub** (https://github.com/jamshaidwarraich/ODNN).
 
 ## 📜 Citation (template)
 ```bibtex
