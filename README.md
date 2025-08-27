@@ -58,10 +58,10 @@ archived at **Zenodo** (DOI: 10.5281/zenodo.xxxxxxx).
 ## 📜 Citation (template)
 ```bibtex
 @software{Mannan2025-HCV-ODNN,
-  author  = {Abdul Mannan},
+  author  = {Abdul Mannan, Jamshaid Ul Rahman},
   title   = {A Data-Driven Approach to Hepatitis C Forecasting Using Machine Learning and Epidemiological Models},
   year    = {2025},
-  url     = {https://github.com/YourUsername/HCV-Forecasting-ML-Epi},
+  url     = {https://github.com/jamshaidwarraich/ODNN},
   doi     = {10.5281/zenodo.xxxxxxx}
 }
 ```
