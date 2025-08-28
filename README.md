@@ -5,7 +5,7 @@ This repository accompanies the article **"A Data-Driven Approach to Hepatitis C
 It contains:
 1. An Oscillatory Deep Neural Network (ODNN) implementation for the computational investigation of a compartmental HCV model.
 2. A classical fourth-order Runge–Kutta (RK4) implementation of the same model.
-3. Comparison utilities and plotting scripts.
+3. Comparison utilities and plotting scripts. 
 
 > Note: If you use this repository for your research, please cite it (see Citation section).
 
